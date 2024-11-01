@@ -9,7 +9,7 @@ int main()
     int num;
     int result;
     int n, k;
-    /*cout << "Lasketaan kertoma!"<<endl;
+    cout << "Lasketaan kertoma!"<<endl;
     cout << "Anna positiivinen kokonaisluku" << endl;
     cin >> num;
     result=factorial(num);
@@ -19,7 +19,7 @@ int main()
      }else {
 
     cout << "Luvun" << num << " kertoma = " << result << endl;
-     }*/
+     }
 
      cout << "Anna n " << endl;
      cin >>n;
